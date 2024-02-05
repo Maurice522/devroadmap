@@ -49,9 +49,9 @@ export default class MyApp extends App {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
-          <meta name="description" content="Empower your coding career with DevRoadMap. Craft personalized day-to-day plans, master key skills, and navigate the tech industry efficiently. Join a supportive community for a successful coding journey."/>
+          <meta name="description" content="Fuel your coding journey with DevRoadMap: Craft personalized plans in seconds, master key skills, and maintain unwavering consistency."/>
           <meta property="og:title" content="DevRoadMap - Empowering Your Coding Career"/>
-          <meta property="og:description" content="Craft personalized day-to-day plans, master key skills, and navigate the tech industry efficiently with DevRoadMap. Join a supportive community for a successful coding journey."/>
+          <meta property="og:description" content="Fuel your coding journey with DevRoadMap: Craft personalized plans in seconds, master key skills, and maintain unwavering consistency."/>
           <meta property="og:image" content="/img/brand/favi.png"/>
           <meta property="og:url" content="https://devroadmap.site/"/>
           <meta property="og:type" content="website"/>
