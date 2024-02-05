@@ -49,10 +49,15 @@ export default class MyApp extends App {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
-          <meta name="description" content="Empower your coding career with DevRoadMap. Craft personalized day-to-day plans, master key skills, and strategically navigate the tech industry. Achieve your goals efficiently with progress tracking features. Join a supportive community for a successful coding journey in seconds. Start your path to coding success with DevRoadMap today!"/>
-
+          <meta name="description" content="Empower your coding career with DevRoadMap. Craft personalized day-to-day plans, master key skills, and navigate the tech industry efficiently. Join a supportive community for a successful coding journey."/>
+          <meta property="og:title" content="DevRoadMap - Empowering Your Coding Career"/>
+          <meta property="og:description" content="Craft personalized day-to-day plans, master key skills, and navigate the tech industry efficiently with DevRoadMap. Join a supportive community for a successful coding journey."/>
+          <meta property="og:image" content="/img/brand/favi.png"/>
+          <meta property="og:url" content="https://devroadmap.site/"/>
+          <meta property="og:type" content="website"/>
+          <meta property="og:site_name" content="DevRoadMap"/>
           <title>Dev Roadmap</title>
-          <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+          {/* <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script> */}
         </Head>
         <Layout>
           <Component {...pageProps} />

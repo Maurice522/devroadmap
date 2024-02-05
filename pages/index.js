@@ -23,9 +23,9 @@ export default function Index() {
         <div className="container mx-auto items-center flex flex-wrap">
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
-              <h2 className="font-semibold text-4xl text-blueGray-600">
+              <h1 className="font-semibold text-4xl text-blueGray-600">
               Code Your Success: DevRoadMap's Tailored Journey
-              </h2>
+              </h1>
               
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
               Elevate your coding career with a day-to-day plan crafted just for you. Master essential skills, stay ahead in the tech industry, and confidently navigate towards your dream job. Your personalized roadmap to success starts here.
