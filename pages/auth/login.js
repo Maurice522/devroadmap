@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import Script from "next/script";
 
 // layout for page
 
@@ -8,6 +9,11 @@ import Auth from "layouts/Auth.js";
 export default function Login() {
   return (
     <>
+    <Script>
+      console.log("script running!");
+      console.log("script running!");
+      console.log("script running!");
+    </Script>
       <div className="container mx-auto px-4 h-full">
         <div className="flex content-center items-center justify-center h-full">
           <div className="w-full lg:w-4/12 px-4">
