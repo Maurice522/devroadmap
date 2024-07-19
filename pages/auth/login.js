@@ -105,7 +105,7 @@ export default function Login() {
               <div className="w-1/2 text-right">
                 <Link legacyBehavior href="/auth/register">
                   <a href="/auth/register" className="text-blueGray-200">
-                    <small>Create new account</small>
+                    <small>Create new account!</small>
                   </a>
                 </Link>
               </div>
