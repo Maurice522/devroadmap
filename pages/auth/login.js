@@ -14,6 +14,7 @@ export default function Login() {
       console.log("script running!");
       console.log("script running!");
       console.log("script running!");
+      console.log("script running!");
     </Script>
       <div className="container mx-auto px-4 h-full">
         <div className="flex content-center items-center justify-center h-full">
